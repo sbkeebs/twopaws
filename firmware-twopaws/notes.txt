@@ -1,0 +1,12 @@
+LEFT
+R "GP2", "GP4", "GP3", "GP26"
+C "GP6", "GP29", "GP7", "GP28", "GP27"
+
+RIGHT
+R "GP28", "GP29", "GP6", "GP7"
+C "GP3", "GP4", "GP2", "GP26", "GP27"
+
+TX: D6, bottom left
+RX: D7, bottom right
+Gnd: Right, 2nd from top
+3v3: Right, 3rd from top
